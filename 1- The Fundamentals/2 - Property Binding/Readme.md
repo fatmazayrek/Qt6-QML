@@ -1,3 +1,5 @@
+## Property Binding 🔗
+
 I did a simple example about property bindig. Property binding allows connection between properties. 
 
 There are 3 circle on the window. Height property of the pink one is binding its width property. 
