@@ -1,4 +1,4 @@
-## Syntax Demo
+## Syntax Demo 👨🏼‍🏫
 
 This example is introduction of the QML. 
 There are 4 circle on the window. Text of the green one is binding with the others. 
