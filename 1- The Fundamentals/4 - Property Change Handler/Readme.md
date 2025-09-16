@@ -1,3 +1,5 @@
+## Property Change Handler 🗽
+
 QML, provides property handlers to manage properties. In this example, there is a rectangle on the center of window and “name” property is showed in the center of rectangle 🟩
 
  If you click with right button to rectangle, name turns to “Maggie”, if you click with left button to rectangle name turns to “Gurney” and the current status of the name property is written to the terminal 🖱️
