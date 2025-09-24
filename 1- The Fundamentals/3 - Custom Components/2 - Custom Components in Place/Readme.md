@@ -1,4 +1,4 @@
-## Custom Components in Place
+## Custom Components in Place 🟦🟩🟥
 
 Using Loader and Components keywords, you can add also your custom components. 🔀
 
